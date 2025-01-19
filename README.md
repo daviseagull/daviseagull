@@ -43,7 +43,3 @@ Welcome to my GitHub! I'm Davi Seagull (not that Seagull — I promise I don't s
 
 - **Bachelor’s in Computer Science** – Universidade Presbiteriana Mackenzie  
 - **Bachelor’s in Industrial Engineering** – Universidade Presbiteriana Mackenzie  
-
----
-
-This version keeps it professional while still adding a touch of personality! You can tweak the contact links and any other details as needed.
