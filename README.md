@@ -1,9 +1,5 @@
 # Davi Seagull - Software Engineer 👋🏼
 
-Welcome to my GitHub! I'm Davi Seagull (not that Seagull — I promise I don't steal your chips), and I'm a full-stack software engineer with an unhealthy obsession with Typescript, NodeJS, and Angular. If you're looking for someone who can build your web app, refactor your microservices, or lead a team to victory in a CI/CD battle, you're in the right place!
-
----
-
 ### 🛠️ Tech Stack
 
 - **Frontend**: Angular, Tailwind CSS, TypeScript, JavaScript  
